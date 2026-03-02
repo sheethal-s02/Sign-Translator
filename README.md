@@ -1,1 +1,2 @@
-# Sign-Translator
+This project is a real-time Sign Language to Speech Translator designed to help bridge the communication gap between hearing-impaired individuals and people who do not understand sign language. It uses computer vision to detect hand gestures through a webcam and applies a machine learning model to recognize the performed signs. Once a gesture is identified, the system converts it into both text and spoken output instantly. The model is trained using a custom dataset collected from live hand movements, allowing it to recognize basic gestures such as "HELLO", "YES", and "NO". The application runs completely offline and does not require any additional hardware, making it a simple and accessible solution for improving everyday communication through AI.
+
